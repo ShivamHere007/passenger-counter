@@ -1,2 +1,4 @@
-<p>This is a passenger counter site to count the number of passengers that enter a station at a time</p>
-<h3>Deployed Link-  gleeful-belekoy-1f881f.netlify.app</h3>
+## 🌐 Live Demo
+
+[Click here to view the live project](https://gleeful-belekoy-1f881f.netlify.app)
+
